@@ -36,3 +36,9 @@
 <div align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=GustavoMacrini&theme=neon-dark&hide_border=true&background=DD272700">
 </div>
+
+
+    
+[![Spotify](https://novatorem-a1j7n0jgw-gustavomacrini.vercel.app/api/spotify)](https://open.spotify.com/user/Gustavo)
+
+  
