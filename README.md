@@ -14,15 +14,11 @@
   
   <h2 align="center">💻 Technologies</h2>
   <div align="center" style="display: inline_block"><br>
-    <img align = "center" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-    <img align = "center" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
-    <img align = "center" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
-    <img align = "center" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-    <img align = "center" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-    <i class="devicon-microsoftsqlserver-plain-wordmark"></i>
-    <div style="background-color: white;"> 
-      <img align = "center" height="30" widht="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
-    </div>
+    <img align = "center" height="50" widht="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+    <img align = "center" height="50" widht="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
+    <img align = "center" height="50" widht="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" /> 
+    <img align = "center" height="50" widht="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />       
+    <img align = "center" height="60" widht="80" src="https://gist.githubusercontent.com/Eduardokopp/9e7872ba3ca293ee1e71362dc5edbb4f/raw/047773d458f688e485a26f6b9b0594457148cbdf/sql-server-icon.svg" />
   </div>
 
   <h2 align="center">📞 Contacts</h2>
