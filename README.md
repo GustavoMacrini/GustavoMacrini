@@ -1,5 +1,7 @@
 ## Hi, i'm Gustavo!
 
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+          
 <div align="center">
   <a href="https://github.com/GustavoMacrini">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GustavoMacrini&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
@@ -17,6 +19,7 @@
     <img align = "center" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
     <img align = "center" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
     <img align = "center" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+    <i class="devicon-microsoftsqlserver-plain-wordmark"></i>
     <div style="background-color: white;"> 
       <img align = "center" height="30" widht="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
     </div>
